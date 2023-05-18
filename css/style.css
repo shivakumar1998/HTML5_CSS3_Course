@@ -96,3 +96,23 @@ font-style: italic, normal, initial, oblique
 
 
  /* Creation of subpages CSS */
+
+
+/* Links in CSS */
+a {
+  text-decoration:none;
+   /* this property has 4 values Underline, overline, Line-through, nonw  */
+   font-size: 20px;
+   text-transform: uppercase;
+   background-color: #000000;
+   color: #ffffff;
+   padding: 10px 16px;
+}
+
+a:hover {
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid #000000;
+  transition: 0.25s ease-in;
+
+}
