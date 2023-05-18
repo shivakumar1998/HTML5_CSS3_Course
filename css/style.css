@@ -1,0 +1,98 @@
+/*Heading Elements*/
+
+/* body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 50px;
+  color: darkblue;
+  background-color: lightgreen;
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  color: #000;
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+}
+
+/* Image Elements */
+/* img {
+  width: 100px;
+  height: 100px;
+} */
+
+/* h1 {
+  color: #000000;
+} */
+/*
+h2 {
+  color: darkblue;
+} */
+
+/* For Id in CSS we use '#' */
+
+/* #myheader {
+  color: red;
+  padding: 20px;
+}
+
+/* For class in CSS we use '.'  */
+/*.myparam1 {
+  color: #666655;
+  font-size: 20px;
+  font-style: italic;
+  margin: 0;
+  text-align: center;
+}
+
+.myparam {
+  color: #666666;
+  font-size: 20px;
+  margin: 0;
+  text-align: center;
+}
+
+.big {
+  font-weight: bold;
+} */
+
+/* Parent element*/
+/* html {
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-variant:inherit;
+  font-weight: 400;
+  font-style: italic;
+  font-family: 'Quicksand', sans-serif;;
+
+} */
+
+/* NOTE:
+Font size
+Absolute keywords -- small, medium, large
+Relative keywords -- larger, smaller
+Percentage
+EM unit: em
+font-variant:
+    -- normal,
+        small-caps,
+        inherit,
+        initial
+
+font-weight: bold, normal or use values
+
+font-style: italic, normal, initial, oblique
+ */
+
+
+
+
+
+ /* Creation of subpages CSS */
