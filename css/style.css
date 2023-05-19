@@ -99,20 +99,80 @@ font-style: italic, normal, initial, oblique
 
 
 /* Links in CSS */
-a {
+/* a {
   text-decoration:none;
    /* this property has 4 values Underline, overline, Line-through, nonw  */
-   font-size: 20px;
+   /* font-size: 20px;
    text-transform: uppercase;
    background-color: #000000;
    color: #ffffff;
    padding: 10px 16px;
-}
+} */
 
-a:hover {
+/* a:hover {
   background-color: #ffffff;
   color: #000000;
   border: 1px solid #000000;
   transition: 0.25s ease-in;
 
+}  */
+
+/* create a awesome navigation CSS code*/
+
+html {
+  width: 100%;
+  height: 100%;
+  font-family: Montserrat;
 }
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+header {
+  height: 60px;
+  background-color: #f0f0f0;
+}
+
+header img {
+  width: 60px;
+  position: relative;
+  left: 120px;
+  /* top: 10px; */
+}
+
+.nav-container {
+  float: right;
+
+}
+
+.nav-container ul {
+  margin: 0;
+}
+
+.nav-container ul li {
+  display: inline-block;
+}
+
+.nav-container ul li a {
+  color: #000000;
+  text-decoration: none;
+  position: relative;
+  top: 22px;
+  right: 120px;
+  margin: 0px 0px  0px 20px;
+  padding: 0px 4px 6px 4px;
+}
+
+.nav-container ul li a:hover {
+  color: #666633;
+  transition: 0.25s ease-in;
+}
+
+.active {
+  border-bottom: 1px solid #000000;
+}
+
+/*  */
